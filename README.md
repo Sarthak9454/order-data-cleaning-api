@@ -9,3 +9,5 @@
 **Tech:** Python, Pandas, SQLite (Google Colab)
 
 **Next:** Flask API with Gemini-powered summary and fallback is done. Next: run on a larger real dataset
+
+Tests: pytest (5 tests).
