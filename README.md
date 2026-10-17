@@ -8,4 +8,4 @@
 
 **Tech:** Python, Pandas, SQLite (Google Colab)
 
-**Next:** Run it on a larger real dataset, then add an API and an LLM summary.
+**Next:** Flask API with Gemini-powered summary and fallback is done. Next: run on a larger real dataset
