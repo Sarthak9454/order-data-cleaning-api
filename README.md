@@ -11,3 +11,5 @@
 **Next:** Flask API with Gemini-powered summary and fallback is done. Next: run on a larger real dataset
 
 Tests: pytest (5 tests).
+
+Tests: pytest (8 tests). Ran API as a live server in Colab. Cleaned a 16,700-row video game sales dataset.
