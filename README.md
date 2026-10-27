@@ -1,4 +1,4 @@
-#Data Cleaning Pipeline & Summary API
+# Data Cleaning Pipeline & Summary API
 
 A Python pipeline that cleans messy order data, answers business questions with SQL, and serves a Flask API that adds an LLM-written summary.
 
