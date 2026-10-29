@@ -18,3 +18,5 @@ Python, Pandas, SQLite, Flask, pytest, Gemini API (Google Colab)
 
 ## Notes
 The API was tested with Flask's test client and run as a live server inside Colab. It is not deployed.
+
+Dataset: https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
